@@ -88,7 +88,6 @@ A structured controls and compliance assessment for a simulated organization cov
 - [ ] Completing Google Cybersecurity Professional Certificate
 - [ ] MRCI assignments — Mossé Cyber Security Institute
 - [ ] Expanding PortSwigger SQL Injection learning path
-- [ ] TryHackMe SOC Level 1 path
 
 ---
 

@@ -3,7 +3,7 @@
 > Computer Science & Engineering Student | Defensive Security | SOC | Web Application Security  
 > 📍 Karnataka, India | 🎓 BGS Institute of Technology (BGSIT) | Expected Graduation: 2027
 
----
+
 
 ## 👩‍💻 About Me
 

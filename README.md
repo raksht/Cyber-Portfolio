@@ -11,7 +11,6 @@ I am a final-year CSE student specializing in defensive security operations, vul
 
 - 🏆 **TryHackMe:** Top 15% Globally — [tryhackme.com/p/Rakshitha](https://tryhackme.com/p/Rakshitha)
 - 🔗 **LinkedIn:** [linkedin.com/in/rakshitha-t-752803299](https://linkedin.com/in/rakshitha-t-752803299)
-- 💼 **Currently enrolled in:** MRCI — Mossé Cyber Security Institute Remote Internship
 
 ---
 

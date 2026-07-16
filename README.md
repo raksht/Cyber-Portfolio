@@ -62,6 +62,16 @@ A structured controls and compliance assessment for a simulated organization cov
 
 ---
 
+### 2. Network Traffic Analysis — Cybersecurity Incident Report
+*Google Cybersecurity Certificate — Module 3*
+
+- Analyzed DNS and ICMP traffic logs using tcpdump
+- Identified UDP port 53 unreachable error causing site outage for www.yummyrecipesforme.com
+- Investigated ICMP echo reply messages from 203.0.113.2 indicating DNS server failure
+- Documented incident timeline, root cause, and recommended remediation steps
+
+---
+
 ## 🎓 Certifications
 
 | Certification | Issuer | Status |

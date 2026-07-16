@@ -96,7 +96,6 @@ A structured controls and compliance assessment for a simulated organization cov
 ## 📌 Currently Working On
 
 - [ ] Completing Google Cybersecurity Professional Certificate
-- [ ] MRCI assignments — Mossé Cyber Security Institute
 - [ ] Expanding PortSwigger SQL Injection learning path
 
 ---

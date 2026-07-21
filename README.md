@@ -71,13 +71,26 @@ A structured controls and compliance assessment for a simulated organization cov
 
 ---
 
+### 3. SYN Flood DoS Attack — Cybersecurity Incident Report
+*Google Cybersecurity Certificate — Module 3*
+
+- Identified SYN flood attack from TCP traffic log analysis
+- Analyzed log entries 52–54 showing abnormal SYN packet volume
+- Explained TCP three-way handshake and how SYN floods exploit it
+- Differentiated between DoS (single source) and DDoS (multiple sources)
+- Documented 504 Gateway Timeout and RST, ACK packet behavior as attack indicators
+- Recommended mitigation: rate limiting, SYN cookies, firewall rules
+
+---
+
 ## 🎓 Certifications
 
 | Certification | Issuer | Status |
 |--------------|--------|--------|
-| Google Cybersecurity Professional Certificate (Modules 1 & 2) | Google / Coursera | 🔄 In Progress — [Verify](https://coursera.org/verify/NNGWWH1P15Q8) |
+| Google Cybersecurity Professional Certificate (Modules 1, 2 & 3) | Google / Coursera | 🔄 In Progress — [Verify](https://coursera.org/verify/NNGWWH1P15Q8) |
 | Introduction to Cybersecurity | Cisco Networking Academy | ✅ Completed — May 2026 |
-| MRCI — Remote Cybersecurity Internship | Mossé Cyber Security Institute | 🔄 In Progress |
+| AWS Educate Machine Learning Foundations | Amazon Web Services | ✅ July 2026 |
+| AWS Educate Introduction to Generative AI | Amazon Web Services | ✅ July 2026 |
 
 ---
 
@@ -85,10 +98,10 @@ A structured controls and compliance assessment for a simulated organization cov
 
 | Category | Skills |
 |----------|--------|
-| Security Concepts | OWASP Top 10, Vulnerability Assessment, CVE Research, SQL Injection, Threat Analysis |
-| Security Tools | Burp Suite, Nmap, Wireshark, Kali Linux, Gobuster, Splunk (basic), CyberChef |
+| Security Concepts | OWASP Top 10, Vulnerability Assessment, CVE Research, SQL Injection Detection, Network Traffic Analysis, SYN Flood/DoS Detection, Incident Reporting |
+| Security Tools | Wireshark, Splunk (basic), Burp Suite, Nmap, Kali Linux, tcpdump, CyberChef |
 | Languages | Python, SQL, HTML/CSS |
-| Frameworks | NIST CSF (awareness), MITRE ATT&CK (awareness), ISO 27001 (awareness) |
+| Frameworks | NIST CSF, PCI DSS, GDPR, SOC Type 1/2, MITRE ATT&CK, ISO 27001 |
 
 ---
 

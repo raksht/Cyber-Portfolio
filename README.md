@@ -9,7 +9,7 @@
 
 I am a final-year CSE student specializing in defensive security operations, vulnerability assessment, and web application security. This repository contains my documented security lab writeups and reports from platforms including PortSwigger Academy, TryHackMe, and the Google Cybersecurity Certificate program.
 
-- 🏆 **TryHackMe:** Top 15% Globally — [tryhackme.com/p/Rakshitha](https://tryhackme.com/p/Rakshitha)
+- 🏆 **TryHackMe:** Top 10% Globally — [tryhackme.com/p/Rakshitha](https://tryhackme.com/p/Rakshitha)
 - 🔗 **LinkedIn:** [linkedin.com/in/rakshitha-t-752803299](https://linkedin.com/in/rakshitha-t-752803299)
 
 ---

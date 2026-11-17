@@ -108,7 +108,6 @@ A structured controls and compliance assessment for a simulated organization cov
 ## 📌 Currently Working On
 
 - [ ] Completing Google Cybersecurity Professional Certificate
-- [ ] Expanding PortSwigger SQL Injection learning path
 
 ---
 
